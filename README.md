@@ -1,2 +1,3 @@
-# key-dist
-Key — bộ gõ tiếng Việt cho macOS: bản phát hành và nguồn cập nhật
+# Key
+
+Bộ gõ tiếng Việt cho macOS. Tải bản mới nhất ở [Releases](https://github.com/hnaht95/key-dist/releases/latest).
