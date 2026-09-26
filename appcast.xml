@@ -3,16 +3,23 @@
     <channel>
         <title>Hook</title>
         <item>
-            <title>1.1.2</title>
-            <pubDate>Sat, 26 Sep 2026 13:14:34 +0700</pubDate>
-            <sparkle:version>1.1.2</sparkle:version>
-            <sparkle:shortVersionString>1.1.2</sparkle:shortVersionString>
+            <title>1.2.0</title>
+            <pubDate>Sat, 26 Sep 2026 14:25:33 +0700</pubDate>
+            <sparkle:version>1.2.0</sparkle:version>
+            <sparkle:shortVersionString>1.2.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h3>Hook 1.1.2</h3>
-<li>Ứng dụng trong &quot;Luôn gõ tiếng Anh&quot; giữ tiếng Anh cả khi bấm ⌃⇧ hay bấm vào biểu tượng, kể cả lúc Hook vừa khởi động</li>
-<li>Âm báo khi chuyển Việt/Anh: &quot;Tink&quot; khi sang tiếng Việt, &quot;Pop&quot; khi sang tiếng Anh, tiếng bíp khi ứng dụng đang luôn gõ tiếng Anh. Tắt trong Cài đặt → Âm báo khi chuyển Việt/Anh</li>
-<li>Menu &quot;Luôn gõ tiếng Anh&quot; gọn hơn: ứng dụng đang dùng để thêm, các ứng dụng đã thêm có ⊖ để bỏ; menu vẫn mở khi thêm hay bỏ</li>]]></description>
-            <enclosure url="https://github.com/hnaht95/hooktype-dist/releases/download/v1.1.2/Hook-1.1.2.zip" length="1438884" type="application/octet-stream" sparkle:edSignature="/pMBW6wLaSaXN1lb6XXCzroPMiKEST6ZHY/twdN8wJ+zOXv2VIeov29RkJ4rPd/6jTf/qUyqS9yY/+TihsF3Dg=="/>
+            <description><![CDATA[<h3>Hook 1.2.0</h3>
+<li>Bảng mã VNI Windows và TCVN3 (ABC) cho từng ứng dụng: gõ được font VNI-Times, .VnTime… trong Photoshop, Illustrator, AutoCAD (chuột phải vào biểu tượng → Bảng mã)</li>
+<li>Chuyển mã clipboard: Unicode ↔ VNI Windows ↔ TCVN3, và bỏ dấu</li>
+<li>Quick Telex (cc→ch, gg→gi, kk→kh, nn→ng, pp→ph, qq→qu, tt→th) và tự viết hoa đầu câu, bật trong Cài đặt</li>
+<li>Khôi phục từ tiếng Anh thông minh hơn: boss, coffee, sorry, is, of… giữ nguyên tiếng Anh; &quot;dd&quot; phải gõ liền nhau nên &quot;did&quot; không còn thành &quot;đi&quot;</li>
+<li>Kiểm tra chính tả theo quy tắc k/gh/ngh; &quot;thuở&quot;, &quot;huơ&quot; đúng chính tả</li>
+<li>Gõ tắt dùng được cả khi gõ tiếng Anh, chèn được {date}, {time}, {clipboard}, nhập và xuất file theo định dạng của UniKey, EVKey</li>
+<li>Bấm chuột ngay sau một từ rồi gõ dấu để sửa từ đó</li>
+<li>Cảnh báo khi EVKey, OpenKey, UniKey… hoặc bộ gõ tiếng Việt của macOS đang chạy cùng Hook</li>
+<li>Màn hình hướng dẫn cấp quyền cho lần cài đầu tiên</li>
+<li>Một tiếng &quot;Pop&quot; khi chuyển Việt/Anh; màu tô trong menu giống menu gốc của macOS</li>]]></description>
+            <enclosure url="https://github.com/hnaht95/hooktype-dist/releases/download/v1.2.0/Hook-1.2.0.zip" length="1580876" type="application/octet-stream" sparkle:edSignature="nTulzAyDXzm4lpKgs4fs+5qppF5ayajMisqMTmbo37AV07/mTngTQuJ6MwX3wifsmYteLiXxzHisvmwGVAi8Cw=="/>
         </item>
     </channel>
 </rss>
