@@ -3,16 +3,17 @@
     <channel>
         <title>Hook</title>
         <item>
-            <title>1.3.1</title>
-            <pubDate>Mon, 28 Sep 2026 11:32:13 +0700</pubDate>
-            <sparkle:version>1.3.1</sparkle:version>
-            <sparkle:shortVersionString>1.3.1</sparkle:shortVersionString>
+            <title>1.3.2</title>
+            <pubDate>Mon, 05 Oct 2026 09:28:46 +0700</pubDate>
+            <sparkle:version>1.3.2</sparkle:version>
+            <sparkle:shortVersionString>1.3.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h3>Hook 1.3.1</h3>
-<li>Báo khi macOS chặn bộ gõ: lúc chế độ nhập an toàn (dùng cho ô mật khẩu) đang bật, không bộ gõ nào đọc được phím. Menu Hook hiện &quot;Bộ gõ đang bị chặn…&quot;, Cài đặt ghi rõ cách gỡ và có nút mở lại ứng dụng đang giữ nó</li>
-<li>Menu gọn hơn: bỏ các dòng giải thích (giải thích nay nằm trong Cài đặt), &quot;Ứng dụng luôn gõ tiếng Anh&quot; đổi thành &quot;Luôn gõ tiếng Anh&quot; cho khỏi bị đè</li>
-<li>&quot;Đổi chữ đã copy&quot; chuyển vào Cài đặt → Bảng mã</li>]]></description>
-            <enclosure url="https://github.com/hnaht95/hooktype-dist/releases/download/v1.3.1/Hook-1.3.1.zip" length="2121039" type="application/octet-stream" sparkle:edSignature="ThFk+ULdm5HeGbqGd0vmiFZdt3Y7GdGoiHhOJmBzFaX2zCYdVx7+PitE0szaAIFEp84pfm9epvtmXiOoarsHDQ=="/>
+            <description><![CDATA[<h3>Hook 1.3.2</h3>
+<li>Dấu không còn nhảy sang chữ khác khi gõ thêm một chữ cái: gõ &quot;lại&quot; rồi thêm &quot;d&quot; vẫn giữ dấu nặng dưới chữ a</li>
+<li>Xoá bớt chữ thì dấu tự về đúng chỗ: &quot;hoàn&quot; xoá chữ n thành &quot;hòa&quot;, không phải gõ lại cả chữ</li>
+<li>Spotlight: &quot;ww&quot; ra &quot;w&quot; như mọi nơi khác (trước đây có lúc ra &quot;ưw&quot;), kể cả khi Spotlight mở ra với chữ tìm lần trước đang bôi đen</li>
+<li>Dòng tiêu đề trong menu mờ và gọn hơn</li>]]></description>
+            <enclosure url="https://github.com/hnaht95/hooktype-dist/releases/download/v1.3.2/Hook-1.3.2.zip" length="2128828" type="application/octet-stream" sparkle:edSignature="vKIAeCH9fFjt5LPCRL/isnqxfQB8IliLSvLrohb5xk5igpDk6Y/QJNZLfG0IULceyLaxu0CCbYVUJeg7P7xACQ=="/>
         </item>
     </channel>
 </rss>
