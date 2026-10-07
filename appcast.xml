@@ -3,17 +3,14 @@
     <channel>
         <title>Hook</title>
         <item>
-            <title>1.3.2</title>
-            <pubDate>Mon, 05 Oct 2026 09:28:46 +0700</pubDate>
-            <sparkle:version>1.3.2</sparkle:version>
-            <sparkle:shortVersionString>1.3.2</sparkle:shortVersionString>
+            <title>1.3.3</title>
+            <pubDate>Wed, 07 Oct 2026 16:30:15 +0700</pubDate>
+            <sparkle:version>1.3.3</sparkle:version>
+            <sparkle:shortVersionString>1.3.3</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h3>Hook 1.3.2</h3>
-<li>Dấu không còn nhảy sang chữ khác khi gõ thêm một chữ cái: gõ &quot;lại&quot; rồi thêm &quot;d&quot; vẫn giữ dấu nặng dưới chữ a</li>
-<li>Xoá bớt chữ thì dấu tự về đúng chỗ: &quot;hoàn&quot; xoá chữ n thành &quot;hòa&quot;, không phải gõ lại cả chữ</li>
-<li>Spotlight: &quot;ww&quot; ra &quot;w&quot; như mọi nơi khác (trước đây có lúc ra &quot;ưw&quot;), kể cả khi Spotlight mở ra với chữ tìm lần trước đang bôi đen</li>
-<li>Dòng tiêu đề trong menu mờ và gọn hơn</li>]]></description>
-            <enclosure url="https://github.com/hnaht95/hooktype-dist/releases/download/v1.3.2/Hook-1.3.2.zip" length="2128828" type="application/octet-stream" sparkle:edSignature="vKIAeCH9fFjt5LPCRL/isnqxfQB8IliLSvLrohb5xk5igpDk6Y/QJNZLfG0IULceyLaxu0CCbYVUJeg7P7xACQ=="/>
+            <description><![CDATA[<h3>Hook 1.3.3</h3>
+<li>Gõ sai rồi xoá để gõ lại không còn bị biến chữ: chữ &quot;toot&quot; đang hiện, xoá chữ t rồi gõ &quot;l&quot; ra &quot;tool&quot; (trước đây ra &quot;tôl&quot;). Sau khi xoá, Hook giữ nguyên các chữ đang hiện và chỉ thêm phím mới gõ</li>]]></description>
+            <enclosure url="https://github.com/hnaht95/hooktype-dist/releases/download/v1.3.3/Hook-1.3.3.zip" length="2134831" type="application/octet-stream" sparkle:edSignature="qhNIKSWW4Zn6KQ069F1PTwITIeSmI56zvc0AK5RxwmYE07ripBliwamcydeAzPWjdaLfHk0T93ig9hCBC4VtCQ=="/>
         </item>
     </channel>
 </rss>
