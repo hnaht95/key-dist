@@ -3,14 +3,16 @@
     <channel>
         <title>Hook</title>
         <item>
-            <title>1.3.5</title>
-            <pubDate>Thu, 22 Oct 2026 18:52:56 +0700</pubDate>
-            <sparkle:version>1.3.5</sparkle:version>
-            <sparkle:shortVersionString>1.3.5</sparkle:shortVersionString>
+            <title>1.3.6</title>
+            <pubDate>Sat, 31 Oct 2026 03:03:28 +0700</pubDate>
+            <sparkle:version>1.3.6</sparkle:version>
+            <sparkle:shortVersionString>1.3.6</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h3>Hook 1.3.5</h3>
-<li>Spotlight trên macOS 27: gõ &quot;ww&quot; ra &quot;w&quot;, &quot;wechat&quot; ra &quot;wechat&quot; như mọi nơi khác (trước đây có lúc ra &quot;ưw&quot;, &quot;ưwechat&quot;)</li>]]></description>
-            <enclosure url="https://github.com/hnaht95/hooktype-dist/releases/download/v1.3.5/Hook-1.3.5.zip" length="2088651" type="application/octet-stream" sparkle:edSignature="Bu1AYaX9t1G3tk15DcxlD4sG9tGjQSaEOd6SNFo8kzdFRw0WtdztBvigxAvavaEqcj2d3Yd06wsIcsE8dnd+DQ=="/>
+            <description><![CDATA[<h3>Hook 1.3.6</h3>
+<li>Gõ tên, email, chữ tiếng Anh không còn bị dính dấu giữa chừng: &quot;baongoc&quot; ra &quot;baongoc&quot; (trước đây có lúc ra &quot;baông&quot;), &quot;carl&quot;, &quot;wendy&quot;, &quot;mark&quot; hiện đúng ngay khi gõ, không phải chờ đến dấu cách mới tự sửa</li>
+<li>Gõ nhầm một chữ rồi xoá vẫn ra lại chữ tiếng Việt: &quot;lại&quot; gõ thêm &quot;d&quot; hiện &quot;laijd&quot;, xoá chữ d lại thành &quot;lại&quot;</li>
+<li>Có bản mới thì biểu tượng Hook trên thanh menu hiện một chấm tròn có mũi tên lên, và menu ghi &quot;Cập nhật lên…&quot; kèm số phiên bản</li>]]></description>
+            <enclosure url="https://github.com/hnaht95/hooktype-dist/releases/download/v1.3.6/Hook-1.3.6.zip" length="2098446" type="application/octet-stream" sparkle:edSignature="0W4LQ5q8ZgJjXi3EjbWbzYdA1q80pRwuK8yLhwJO3y8F60nK1TfV8M1YCASsz6KCqAZuMKqkYx2ziU5/B/boAA=="/>
         </item>
     </channel>
 </rss>
