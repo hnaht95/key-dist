@@ -3,16 +3,14 @@
     <channel>
         <title>Hook</title>
         <item>
-            <title>1.3.6</title>
-            <pubDate>Sat, 31 Oct 2026 03:03:28 +0700</pubDate>
-            <sparkle:version>1.3.6</sparkle:version>
-            <sparkle:shortVersionString>1.3.6</sparkle:shortVersionString>
+            <title>1.3.7</title>
+            <pubDate>Sat, 31 Oct 2026 03:08:08 +0700</pubDate>
+            <sparkle:version>1.3.7</sparkle:version>
+            <sparkle:shortVersionString>1.3.7</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h3>Hook 1.3.6</h3>
-<li>Gõ tên, email, chữ tiếng Anh không còn bị dính dấu giữa chừng: &quot;baongoc&quot; ra &quot;baongoc&quot; (trước đây có lúc ra &quot;baông&quot;), &quot;carl&quot;, &quot;wendy&quot;, &quot;mark&quot; hiện đúng ngay khi gõ, không phải chờ đến dấu cách mới tự sửa</li>
-<li>Gõ nhầm một chữ rồi xoá vẫn ra lại chữ tiếng Việt: &quot;lại&quot; gõ thêm &quot;d&quot; hiện &quot;laijd&quot;, xoá chữ d lại thành &quot;lại&quot;</li>
-<li>Có bản mới thì biểu tượng Hook trên thanh menu hiện một chấm tròn có mũi tên lên, và menu ghi &quot;Cập nhật lên…&quot; kèm số phiên bản</li>]]></description>
-            <enclosure url="https://github.com/hnaht95/hooktype-dist/releases/download/v1.3.6/Hook-1.3.6.zip" length="2098446" type="application/octet-stream" sparkle:edSignature="0W4LQ5q8ZgJjXi3EjbWbzYdA1q80pRwuK8yLhwJO3y8F60nK1TfV8M1YCASsz6KCqAZuMKqkYx2ziU5/B/boAA=="/>
+            <description><![CDATA[<h3>Hook 1.3.7</h3>
+<li>Không có thay đổi về cách gõ: bản này để kiểm tra huy hiệu cập nhật trên biểu tượng Hook</li>]]></description>
+            <enclosure url="https://github.com/hnaht95/hooktype-dist/releases/download/v1.3.7/Hook-1.3.7.zip" length="2098437" type="application/octet-stream" sparkle:edSignature="lWkLtlc2hMiiypVsGu4/6bQiCjHWkpz+Cgy1qYPi3NmyZ4aNLGkQCTMwuLOQ2tggwyAlynhbH0p8YZGgY3XdDQ=="/>
         </item>
     </channel>
 </rss>
